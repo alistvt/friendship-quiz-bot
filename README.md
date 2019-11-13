@@ -1,14 +1,14 @@
 ## How to use
-###1. Configure environment
+### 1. Configure environment
 `virtualenv -p python3 env`
 `source env/bin/acivate`
 `pip install -r requirements.txt`
-###2. Configure database
+### 2. Configure database
 just run:
 `python models.py`
-###3. Token
+### 3. Token
 add your token in [token variable]()
-###4. Star this repo
+### 4. Star this repo
 ## Support
 For more support you can contact with [me](t.me/alistvt). It would be a pleasure to help.
 
