@@ -1,4 +1,4 @@
-## How to use
+## A. How to use
 ### 1. Configure environment
 ```
 virtualenv -p python3 env
@@ -13,10 +13,8 @@ python models.py
 ### 3. Token
 add your token in [token variable](https://github.com/alistvt/friendship-quiz-bot/blob/master/consts/token.py)
 ### 4. Star this repo
-## Support
-For more support you can contact with [me](t.me/alistvt). It would be a pleasure to help.
 
-## Inline Keyboard Grammer
+## B. Inline Keyboard Grammer
 ### answer <answerskeeper_id> <question_number> <option>
   answerer answers like this
 
@@ -29,6 +27,9 @@ For more support you can contact with [me](t.me/alistvt). It would be a pleasure
 ### skip <question_number> <main_question_number>
   skip question
   
-## راهنمای کاربران ایرانی
+## C. Support
+For more support you can contact with [me](t.me/alistvt). It would be a pleasure to help.
+
+## D. راهنمای کاربران ایرانی
 [گروه کاربران ایرانی کتابخانه پایتون-تلگرام-بات](t.me/ptbir)
 
