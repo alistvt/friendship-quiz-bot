@@ -29,7 +29,14 @@ add your token in [token variable](https://github.com/alistvt/friendship-quiz-bo
   
 ## C. Support
 For more support you can contact with [me](t.me/alistvt). It would be a pleasure to help.
-
-## D. راهنمای کاربران ایرانی
+## D. Coding Style
+Coding conventions and direcotries and the whole system is tried to be something like django and I have tried to simulate that model here. 
+As you can see I have 
+`models` file which handles my db parts,
+`templates` directory is for the constant parts of the bot, like keyboards and buttons (like django templates dir),
+`handlers` directory is the alternative for views in django,
+`consts` directory is like settings module in django,
+and I have also an `admin.py` file to add features for the admins!
+## E. راهنمای کاربران ایرانی
 [گروه کاربران ایرانی کتابخانه پایتون-تلگرام-بات](t.me/ptbir)
 
