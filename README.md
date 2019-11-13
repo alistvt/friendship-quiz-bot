@@ -1,6 +1,7 @@
 ## How to use
 ### 1. Configure environment
-```virtualenv -p python3 env
+```
+virtualenv -p python3 env
 source env/bin/acivate
 pip install -r requirements.txt
 ```
