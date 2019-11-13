@@ -1,13 +1,13 @@
 ## How to use
 ### 1. Configure environment
-`virtualenv -p python3 env`
-`source env/bin/acivate`
-`pip install -r requirements.txt`
+```virtualenv -p python3 env
+source env/bin/acivate
+pip install -r requirements.txt```
 ### 2. Configure database
 just run:
 `python models.py`
 ### 3. Token
-add your token in [token variable]()
+add your token in [token variable](https://github.com/alistvt/friendship-quiz-bot/blob/master/consts/token.py)
 ### 4. Star this repo
 ## Support
 For more support you can contact with [me](t.me/alistvt). It would be a pleasure to help.
