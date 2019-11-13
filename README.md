@@ -6,8 +6,8 @@ pip install -r requirements.txt
 ```
 ### 2. Configure database
 just run:
-```python models.py
-```
+``python models.py
+``
 ### 3. Token
 add your token in [token variable](https://github.com/alistvt/friendship-quiz-bot/blob/master/consts/token.py)
 ### 4. Star this repo
