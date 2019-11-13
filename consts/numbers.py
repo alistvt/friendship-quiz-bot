@@ -1,0 +1,3 @@
+# Define constant numbers here. like for invite_limit or ...
+
+invite_limit = 3
