@@ -1,7 +1,7 @@
 asn1crypto==0.24.0
 certifi==2019.3.9
 cffi==1.12.3
-cryptography==2.6.1
+cryptography==39.0.1
 future==0.17.1
 peewee==3.9.5
 pkg-resources==0.0.0
